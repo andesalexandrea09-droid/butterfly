@@ -1,0 +1,24 @@
+body { 
+     background-color: #FFFF0; /*Warna kuning cerah*/
+     font-family: Arial,sas serif; /* Jenis huruf yang bersih dan mudah dibaca */
+    COLOR: #191978; /* Warna teks utama (Biru Gelap) */
+}
+.kartu-profil {
+       width: 300px;
+       margin: 50px auto;/* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+       pandding: 20px
+       background-color: white;
+       border-radius: 15px; \*membuat sudut meenjadi melengkung */
+       box-shadow : 0 4px 8px rgba(0,0,0,0,1); /8 Efek bayagan */
+}
+|
+      .kartu-profil 1mg {
+             width:150px;
+             border-radius: 50%; \* TTrik untuk membuat gambar persegi menjadi lingkaran sempurna */
+      }
+      . kartu-profil {
+           /* ...(kode dari slide sebelumnya ) ... */
+      text-align: center; /* menengahkan semua teks di dalam kartu */
+      } 
+      
+  
